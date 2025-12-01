@@ -1,3 +1,4 @@
+Avril FSD - Request, Wait & Launch Next Free Concurrent Thread At Ends Library.
 Copyright (c) 2022 - 2025 Brenton James Maddocks BEng(CompSys).
 All rights reserved.
 
