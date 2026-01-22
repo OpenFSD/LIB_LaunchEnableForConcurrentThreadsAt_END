@@ -1,11 +1,8 @@
-# Wait-LaunchNextFreeConcurrentThread DLL Library.
-Request, Wait, Launch for Concurrent Threads Que.
-
+# Avril - LIBRARY Template for Write Enable For Threads At Stack.
+## Request, Wait, Launch Next Free Concurrent Thread, Dynamic Link Library.
 ## Similar Repository
  - https://github.com/cameron314/concurrentqueue
    
-# Request, Wait, Launch for Concurent Threads at Ends, Dynamic Link Library.
-
 ### Using C++
 
 ### Using Windows 11 Home
@@ -15,7 +12,6 @@ Version: 24H2
 
 ### Microsoft Visual Studio Professional 2022 (64-bit)
  - Version 17.13.4
-
 
 ## TestBench
  - https://github.com/OpenFSD/xxxxx
