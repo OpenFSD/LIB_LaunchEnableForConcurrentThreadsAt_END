@@ -5,8 +5,8 @@ The below is rewritten with human computer interaction in mind. It is fundamenta
 
 -
 
-concurrentqueue
- - https://github.com/cameron314/concurrentqueue
+cameron314 / concurrentqueue
+https://github.com/cameron314/concurrentqueue
 
 -
 
